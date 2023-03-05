@@ -1,0 +1,21 @@
+{
+  "name": "yush-dark-theme",
+  "displayName": "yush dark",
+  "description": "dark theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "yush dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/yush dark-color-theme.json"
+      }
+    ]
+  }
+}
