@@ -2,7 +2,19 @@
   "name": "yush-dark-theme",
   "displayName": "yush dark",
   "description": "dark theme",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "yusheeh",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Satttoshi/vsc-yush-dark-mode"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "dark mode",
+    "yush",
+    "joshua stolle"
+  ],
   "engines": {
     "vscode": "^1.76.0"
   },
