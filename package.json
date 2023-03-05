@@ -4,6 +4,7 @@
   "description": "dark theme",
   "version": "1.0.0",
   "publisher": "yusheeh",
+  "icon": "./src/LLF128px.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/Satttoshi/vsc-yush-dark-mode"
