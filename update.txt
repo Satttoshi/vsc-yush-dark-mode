@@ -1,0 +1,9 @@
+how to update:
+
+
+terminal
+(npm install -g vsce)
+vsce login yusheeh
+insert env token
+vsce publish patch/minor/major
+
