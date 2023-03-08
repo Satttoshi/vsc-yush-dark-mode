@@ -122,7 +122,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#32ff76"
+				"foreground": "#00d4b1"
 			}
 		},
 		{
@@ -165,7 +165,7 @@
 				"constant.numeric",
 			],
 			"settings": {
-				"foreground": "#ff5252"
+				"foreground": "#E06614"
 			}
 		},
 		{
@@ -180,7 +180,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#a07aac"
+				"foreground": "#C792EA"
 			}
 		},
 		{
@@ -269,7 +269,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#e06614"
 			}
 		},
 		{
