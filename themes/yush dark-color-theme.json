@@ -82,9 +82,19 @@
 			}
 		},
 		{
-			"name": "Operator, Misc",
+			"name": "Keyword, Operator",
 			"scope": [
 				"keyword.control",
+				"keyword.other.template",
+				"keyword.other.substitution"
+			],
+			"settings": {
+				"foreground": "#38D1EC"
+			}
+		},
+		{
+			"name": "Operator, Misc",
+			"scope": [
 				"constant.other.color",
 				"punctuation",
 				"meta.tag",
@@ -94,11 +104,9 @@
 				"punctuation.definition.tag.begin.html",
 				"punctuation.definition.tag.end.html",
 				"punctuation.section.embedded",
-				"keyword.other.template",
-				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#d9edffb0"
+				"foreground": "#b6e3ffb0"
 			}
 		},
 		{
@@ -157,6 +165,24 @@
 			],
 			"settings": {
 				"foreground": "#FFD5A4"
+			}
+		},
+		{
+			"name": "Boolean, True",
+			"scope": [
+				"constant.language.boolean.true",
+			],
+			"settings": {
+				"foreground": "#1eff00"
+			}
+		},
+		{
+			"name": "Boolean, False",
+			"scope": [
+				"constant.language.boolean.false",
+			],
+			"settings": {
+				"foreground": "#ff002b"
 			}
 		},
 		{
